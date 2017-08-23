@@ -1,0 +1,66 @@
+.choiceBox{
+    width: 450px;
+    height: 250px;
+    background-color: gray;
+    margin-top: 300px;
+    margin-left: 450px;
+}
+.choiceBox p{
+    color: orange;
+    text-align: center;
+    font-weight: bold;
+    margin-right: 10px;
+}
+.ChoicesA{
+    display: inline-block;
+    background-color: red;
+    width: 90px;
+    height: 60px;
+    margin-left: 35px;
+    text-align: center;
+    margin-top: 15px;
+}
+
+#Winterfell{
+    margin-bottom: 25px;
+}
+#Riverrun{
+    position: relative;
+    bottom: 17px;
+}
+#Moat_Calin{
+    position: relative;
+    bottom: 17px;
+}
+img{
+    display: none;
+}
+body{
+    background-size: cover;
+    text-align: center;
+}
+#champion{
+    width: 650px;
+    height: 450px;
+    background-color: gray;
+    /* margin-top: 300px; */
+    margin-left: 350px;
+    display: none;
+}
+#champion h3{
+    color: orange;
+    text-align: center;
+    font-weight: bold;
+    margin-right: 10px;
+}
+#test1{
+    width: 200px;
+    height: 300px;
+    display: inline-block;  
+}
+#test2{
+    width: 200px;
+    height: 300px;
+    display: inline-block;  
+}
+
